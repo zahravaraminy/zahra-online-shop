@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/zahra-online-shop/static/js/main.138cd64b.chunk.js",
+    "main.js.map": "/zahra-online-shop/static/js/main.138cd64b.chunk.js.map",
+    "runtime-main.js": "/zahra-online-shop/static/js/runtime-main.ef5a4b1f.js",
+    "runtime-main.js.map": "/zahra-online-shop/static/js/runtime-main.ef5a4b1f.js.map",
+    "static/js/2.06951c93.chunk.js": "/zahra-online-shop/static/js/2.06951c93.chunk.js",
+    "static/js/2.06951c93.chunk.js.map": "/zahra-online-shop/static/js/2.06951c93.chunk.js.map",
+    "index.html": "/zahra-online-shop/index.html",
+    "static/js/2.06951c93.chunk.js.LICENSE.txt": "/zahra-online-shop/static/js/2.06951c93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5a4b1f.js",
+    "static/js/2.06951c93.chunk.js",
+    "static/js/main.138cd64b.chunk.js"
+  ]
+}
